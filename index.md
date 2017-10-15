@@ -1,4 +1,5 @@
-Online Chinese dictionary http://xh.5156edu.com/
+* Online Chinese dictionary http://xh.5156edu.com/
+* The input method download url http://pinyin.sogou.com
 
 
 
