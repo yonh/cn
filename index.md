@@ -36,7 +36,7 @@
 哥哥 gege   -> older brother
 弟弟 didi ->   younger brother
 姐姐 jiejie -> older sister
-妹妹 jiejie -> younge sister
+妹妹 meimei -> younge sister
 ```
 
 
@@ -104,6 +104,7 @@ we will learn
 * numbers
 * today, tomorrow,yestday
 * some verb
+* animals
 
 
 
