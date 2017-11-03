@@ -11,6 +11,13 @@
 你   ni   3 -> you
 他   ta   1 -> he , him
 她   ta   1 -> she, her
+它   ta   1 -> it
+老师 lao3,shi -> teacher
+学生 xue3,sheng -> student
+
+我的   wo de  ->  my
+你的   wo de  ->  your
+他的   wo de  ->  his
 ```
 
 
@@ -89,18 +96,66 @@ When the input method is running, click `shift` can switch input language state.
 
 
 
+# 03 是(shi) and 的(de) 
+
+In English we would say "I am", "You are", "She is", But in the Chinese we don't distinguish "am"、"are"、"is". We just using "是(shi)" in all.
+
+For example
+
+I am father.   ->   我是(shi)爸爸.
+
+You are mother.   ->   你是(shi)妈妈.
+
+She is older sister.   ->   她是(shi)姐姐.
+
+He is older brother.   ->   他是(shi)哥哥.
+
+
+
+and then we will learn "We","You" and "They", In Chinese We also add one word of "I,You,He", like 是(shi).
+
+But in this word we will use `们(men)`.
+
+For example.
+
+We    -> 我们(men)
+
+You   -> 你们(men)
+
+They -> `他们`(men), ` 她们`(they are all woman),  `它们`(no humanity are there)
+
+
+
+> NOTES
+>
+>  But if you know they are all woman, you can say `她们` or` 他们`.
+>
+>  But if you know they are not humanity. You can only say `它们`.
+>
+> We just use `他,她` for humanity. `它` for not humanity.
+
+ 
+
+#### Exercise
+
+```
+I love my father           -> 我爱我的爸爸
+My father loves me         -> 我的爸爸爱我
+I love they(men and woman) -> 我爱他们
+I love they(just men)      -> 我爱他们
+I love they(just woman)    -> 我爱她们
+I am teacher               -> 我是学生(student)
+They are teachers          -> 他们是老师
+```
+
 
 
 
 
 # next class
 
-we will learn 
-
-* we, you(no just one of you), they, it, 
-* like, hate
 * say good morning
-* is
+* like, hate
 * numbers
 * today, tomorrow,yestday
 * some verb
@@ -108,3 +163,34 @@ we will learn
 
 
 
+
+
+
+# What we learned?
+
+```
+# I, You, He
+我,你,他,她,它
+
+# My, Your, His
+我的,你的,他的,她的,它的
+
+# We, You, They
+我们,你们,他们,她们,它们
+
+# I am, You are ...
+我是,你是,他是,她是,它是
+
+# family call
+爸爸,妈妈,哥哥,弟弟,姐姐,妹妹
+
+# jobs
+学生,老师,医生
+
+# other
+爱
+```
+
+
+
+degree
