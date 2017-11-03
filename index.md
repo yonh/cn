@@ -128,13 +128,14 @@ They -> `他们`(men), ` 她们`(they are all woman),  `它们`(no humanity are 
 
 > NOTES
 >
->  But if you know they are all woman, you can say `她们` or` 他们`.
+> 
 >
->  But if you know they are not humanity. You can only say `它们`.
->
-> We just use `他,她` for humanity. `它` for not humanity.
-
- 
+> 1.  But if you know they are all woman, you can say `她们` or` 他们`.
+> 2.  But if you know they are not humanity. You can only say `它们`.
+> 3. We just use `他,她` for humanity. `它` for not humanity.
+> 4. Please remember in Chinese, we don't have countable nonu and uncountable noun, so
+>    1. teachers and teache in Chinese both is `老师`
+>    2. students and student in Chinese both is `学生`
 
 #### Exercise
 
